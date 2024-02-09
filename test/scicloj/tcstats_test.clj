@@ -1,6 +1,7 @@
 (ns scicloj.tcstats-test
-  (:require [clojure.test :refer :all]
-            [scicloj.tcstats :refer :all]))
+  (:require
+   [clojure.test :refer :all]
+   [scicloj.tcstats :refer :all]))
 
 (deftest a-test
   (testing "FIXME, I fail."
